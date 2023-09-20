@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LQ8yAb3oDNwpvpIa2T2VQo2BwyrNixPsNnSAaSHWxuKgSroSml2ncP5R7YPgr7R6oRtBkmk2b8JCUUxzV65Z4A==",
+  "dgSpecHash": "ryJeFAO7SR7cncuPe3r9sZyGXARh2ZDkGBLvTAwv+7kiABgxbTvkSMdK83OCOWvS/RdWbDgcIMzdAW30C8M6Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riost\\source\\repos\\Lab01Apirestl\\Lab01Apirestl\\Lab01Apirestl.csproj",
+  "projectFilePath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Lab01Apirestl\\Lab01Apirestl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riost\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\riost\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
