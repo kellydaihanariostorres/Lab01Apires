@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore.Design;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using Repository;
 
 namespace Lab01Apirestl.ContextFactory
@@ -14,7 +14,7 @@ namespace Lab01Apirestl.ContextFactory
             .Build();
             var builder = new DbContextOptionsBuilder<RepositoryContext>()
             .UseSqlServer(configuration.GetConnectionString("sqlConnection"),
-            b => b.MigrationsAssembly("Lab01Apirestl"));
+            b => b.MigrationsAssembly("APIRestLab01"));
             return new RepositoryContext(builder.Options);
         }
     }

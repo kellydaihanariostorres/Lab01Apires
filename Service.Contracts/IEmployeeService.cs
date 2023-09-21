@@ -1,4 +1,6 @@
-﻿using Shared.DataTransferObjects;
+﻿using Entities.Models;
+using Shared.DataTransferObject;
+using Shared.DataTransferObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +11,17 @@ namespace Service.Contracts
 {
     public interface IEmployeeService
     {
-        IEnumerable<EmployeeDto> GetAllEmployees(bool trackChanges);
-        EmployeeDto GetEmployee(Guid employeeId, bool trackChanges);
+        Task<IEnumerable<EmployeeDto>> GetAllEmployeesAsync(bool trackChanges);
+        Task<EmployeeDto> GetEmployeeAsync(Guid employeeId, bool trackChanges);
+        Task<IEnumerable<EmployeeDto>> GetEmployeesCompanyAsync(Guid companyId, bool trackChanges);
+        Task<EmployeeDto> GetEmployeeCompanyAsync(Guid companyId, Guid Id, bool trackChanges);
+        Task<EmployeeDto> CreateEmployeeForCompanyAsync(Guid companyId, EmployeeForCreationDto employeeForCreation, bool trackChanges);
+        Task DeleteEmployeeForCompanyAsync(Guid companyId, Guid Id, bool trackChanges);
+        Task UpdateEmployeeForCompanyAsync(Guid companyId, Guid id,
+            EmployeeForUpdateDto employeeForUpdate, bool compTrackChanges, bool empTrackChanges);
+        Task<(EmployeeForUpdateDto employeeToPatch, Employee employeeEntity)> GetEmployeeForPatchAsync(
+            Guid companyId, Guid id, bool compTrackChanges, bool empTrackChanges);
+        Task SaveChangesForPatchAsync(EmployeeForUpdateDto employeeToPatch, Employee
+            employeeEntity);
     }
 }

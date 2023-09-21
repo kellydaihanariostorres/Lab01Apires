@@ -1,8 +1,12 @@
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\CompanyEmployee.Presentation.deps.json
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\CompanyEmployee.Presentation.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\CompanyEmployee.Presentation.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Entities.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Shared.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Entities.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Shared.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.csproj.AssemblyReference.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.AssemblyInfoInputs.cache
@@ -13,5 +17,3 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\D
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\Debug\net7.0\refint\CompanyEmployee.Presentation.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\obj\Debug\net7.0\ref\CompanyEmployee.Presentation.dll
-C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Shared.dll
-C:\Users\riost\Documents\Vladimir\Lab01Apires\CompanyEmployee.Presentation\bin\Debug\net7.0\Shared.pdb

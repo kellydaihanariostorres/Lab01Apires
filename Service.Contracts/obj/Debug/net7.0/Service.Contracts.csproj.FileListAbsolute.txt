@@ -1,6 +1,10 @@
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Service.Contracts.deps.json
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Service.Contracts.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Entities.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Shared.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Entities.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Shared.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
@@ -11,5 +15,3 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Shared.dll
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Service.Contracts\bin\Debug\net7.0\Shared.pdb

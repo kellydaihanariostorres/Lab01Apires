@@ -161,7 +161,7 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
-            "AutoMapper": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
             }
@@ -210,6 +210,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj"
+              },
               "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj": {
                 "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj"
               }

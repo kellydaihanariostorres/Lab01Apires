@@ -1,5 +1,5 @@
-﻿using Contracts;
-using Microsoft.EntityFrameworkCore;
+﻿using Arch.EntityFrameworkCore;
+using Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,5 +40,6 @@ namespace Repository
 
         public void Update(T entity)
         => RepositoryContext.Set<T>().Update(entity);
+
     }
 }
