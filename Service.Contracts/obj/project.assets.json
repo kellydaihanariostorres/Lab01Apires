@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "Contracts/1.0.0": {
+      "Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/Contracts.dll": {}
+          "bin/placeholder/Shared.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Contracts.dll": {}
+          "bin/placeholder/Shared.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Contracts/1.0.0": {
+    "Shared/1.0.0": {
       "type": "project",
-      "path": "../Contracts/Contracts.csproj",
-      "msbuildProject": "../Contracts/Contracts.csproj"
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Contracts >= 1.0.0"
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj"
+            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj"
             }
           }
         }

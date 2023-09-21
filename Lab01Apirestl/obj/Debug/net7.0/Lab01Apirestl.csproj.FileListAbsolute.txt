@@ -89,3 +89,8 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Ser
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Service.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Service.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\CompanyEmployee.Presentation.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\CompanyEmployee.Presentation.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Shared.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Shared.pdb

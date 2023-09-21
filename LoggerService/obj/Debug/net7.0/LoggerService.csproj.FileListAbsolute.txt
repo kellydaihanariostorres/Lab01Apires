@@ -13,3 +13,5 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\LoggerService\obj\Debug\net7.0\Log
 C:\Users\riost\Documents\Vladimir\Lab01Apires\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
 C:\Users\riost\Documents\Vladimir\Lab01Apires\LoggerService\obj\Debug\net7.0\LoggerService.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\LoggerService\bin\Debug\net7.0\Entities.pdb

@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v7.0": {
       "Service.Contracts/1.0.0": {
         "dependencies": {
-          "Contracts": "1.0.0"
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Service.Contracts.dll": {}
         }
       },
-      "Contracts/1.0.0": {
+      "Shared/1.0.0": {
         "runtime": {
-          "Contracts.dll": {}
+          "Shared.dll": {}
         }
       }
     }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Contracts/1.0.0": {
+    "Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -27,7 +27,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
