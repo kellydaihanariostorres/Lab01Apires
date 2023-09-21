@@ -8,8 +8,9 @@ using System.Threading.Tasks;
 
 namespace CompanyEmployee.Presentation.Controllers
 {
+    [Route("api/companies/{companyId}/employees")]
     [ApiController]
-    [Route("api/[controller]")]
+
     public class EmployeesController : ControllerBase
     {
         private readonly IServiceManager _service;

@@ -36,7 +36,6 @@ namespace Service
         public EmployeeDto GetEmployee(Guid employeeId, bool trackChanges)
         {
             var employee = _repository.Employee.GetEmployee(employeeId, trackChanges);
-            //check if the employee is null
             var employeeDto = _mapper.Map<EmployeeDto>(employee);
 
             return employeeDto;
