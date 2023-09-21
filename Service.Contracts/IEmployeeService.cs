@@ -1,6 +1,5 @@
 ﻿using Entities.Models;
 using Shared.DataTransferObject;
-using Shared.DataTransferObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,5 +22,6 @@ namespace Service.Contracts
             Guid companyId, Guid id, bool compTrackChanges, bool empTrackChanges);
         Task SaveChangesForPatchAsync(EmployeeForUpdateDto employeeToPatch, Employee
             employeeEntity);
+
     }
 }

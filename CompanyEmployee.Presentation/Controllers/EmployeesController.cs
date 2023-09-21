@@ -1,15 +1,14 @@
-﻿using Microsoft.AspNetCore.JsonPatch;
-using Microsoft.AspNetCore.Mvc;
-using Service.Contracts;
-using Shared.DataTransferObject;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Service.Contracts;
+using Shared.DataTransferObject;
+using Microsoft.AspNetCore.JsonPatch;
 
-
-namespace CompanyEmployee.Presentation.Controllers
+namespace CompanyEmployees.Presentation.Controllers
 {
     [Route("api/companies/{companyId}/employees")]
     [ApiController]
@@ -92,7 +91,7 @@ namespace CompanyEmployee.Presentation.Controllers
                 return BadRequest("patchDoc object sent from client is null.");
 
             var result = await _service.EmployeeService.GetEmployeeForPatchAsync(companyId, id, compTrackChanges: false, empTrackChanges: true);
-            patchDoc.ApplyTo(result.employeeToPatch,ModelState);
+            patchDoc.ApplyTo(result.employeeToPatch, ModelState);
 
             TryValidateModel(result.employeeToPatch);
 

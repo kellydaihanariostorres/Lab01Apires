@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Entities.Exceptions
 {
-    
-   public sealed class EmployeeNotFoundException : NotFoundException
-   {
+    public sealed class EmployeeNotFoundException : NotFoundException
+    {
         public EmployeeNotFoundException(Guid employeeId)
-            : base($"The comapny with id:{employeeId} doesn´t exist in the database.")
+            : base(($"The Employee with Id: {employeeId} doesn't exist in the database."))
         {
+
         }
-   }
+    }
 }

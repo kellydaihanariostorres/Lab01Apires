@@ -1,3 +1,9 @@
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.csproj.AssemblyReference.cache
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.AssemblyInfoInputs.cache
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.AssemblyInfo.cs
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.csproj.CoreCompileInputs.cache
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\nlog.config
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\appsettings.json
@@ -84,13 +90,6 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Ser
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Contracts.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Entities.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Shared.pdb
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.csproj.AssemblyReference.cache
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.AssemblyInfoInputs.cache
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.AssemblyInfo.cs
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.csproj.CoreCompileInputs.cache
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\staticwebassets\msbuild.Lab01Apirestl.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\staticwebassets\msbuild.build.Lab01Apirestl.props
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Lab01Apirestl.props
@@ -105,3 +104,4 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\ref
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.genruntimeconfig.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\ref\Lab01Apirestl.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.MvcApplicationPartsAssemblyInfo.cs

@@ -1,6 +1,6 @@
-﻿using Arch.EntityFrameworkCore;
-using Contracts;
+﻿using Contracts;
 using Entities.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,3 +33,4 @@ namespace Repository
         public void DeleteCompany(Company company) => Delete(company);
     }
 }
+

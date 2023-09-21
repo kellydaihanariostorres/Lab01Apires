@@ -13,6 +13,7 @@ namespace Contracts
         void LogError(string message);
         void LogFatal(string message);
         void LogDebug(string message);
-        
+
+
     }
 }

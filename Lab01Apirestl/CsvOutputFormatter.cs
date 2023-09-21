@@ -3,7 +3,7 @@ using Microsoft.Net.Http.Headers;
 using System.Text;
 using System.Text.RegularExpressions;
 using System;
-using Shared.DataTransferObjects;
+using Shared.DataTransferObject;
 
 namespace Lab01Apirestl
 {

@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Entities.Models;
 using Shared.DataTransferObject;
-using Shared.DataTransferObjects;
+
 
 
 namespace Lab01Apirestl

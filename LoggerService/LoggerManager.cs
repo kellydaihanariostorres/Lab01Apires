@@ -1,5 +1,6 @@
 ﻿using Contracts;
 using NLog;
+using NLog.Fluent;
 using System;
 using System.Collections.Generic;
 using System.Linq;

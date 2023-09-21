@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace Entities.Exceptions
 {
-    public sealed class IdParametersBadRequestException : Exception
+    public sealed class IdParametersBadRequestException : BadRequestException
     {
         public IdParametersBadRequestException()
             : base("Parameter ids is null")
         {
         }
     }
+
+
+
 }
+

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Shared.DataTransferObjects
+namespace Shared.DataTransferObject
 {
     public record CompanyDto
     {
@@ -12,4 +12,5 @@ namespace Shared.DataTransferObjects
         public string? Name { get; init; }
         public string? FullAddress { get; init; }
     }
+
 }

@@ -1,15 +1,15 @@
-﻿using CompanyEmployee.Presentation.ModelBinders;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ModelBinding.Binders;
-using Service.Contracts;
-using Shared.DataTransferObject;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Service.Contracts;
+using Shared.DataTransferObject;
+using Microsoft.AspNetCore.JsonPatch;
+using CompanyEmployees.Presentation.ModelBinders;
 
-namespace CompanyEmployee.Presentation.Controllers
+namespace CompanyEmployees.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

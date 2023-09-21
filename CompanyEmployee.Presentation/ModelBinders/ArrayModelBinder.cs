@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+using System.ComponentModel;
+using System.Reflection;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
-using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CompanyEmployee.Presentation.ModelBinders
+namespace CompanyEmployees.Presentation.ModelBinders
 {
     public class ArrayModelBinder : IModelBinder
     {
@@ -42,4 +42,5 @@ namespace CompanyEmployee.Presentation.ModelBinders
             return Task.CompletedTask;
         }
     }
+
 }
