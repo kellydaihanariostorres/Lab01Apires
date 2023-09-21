@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCy/vGExbHhvC4gp1OIqjArtaxhj0WQ6Yx3F5wMxvfqvkd6pQAWSWUYCTYnwG+Pp0XdUOHRxcLxL7EaLCq6vUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riost\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\riost\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
