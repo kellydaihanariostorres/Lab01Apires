@@ -37,7 +37,7 @@ builder.Services.AddControllers(config => {
 .AddApplicationPart(typeof(CompanyEmployee.Presentation.AssemblyReference).Assembly);
 
 var app = builder.Build();
-
+/////
 var logger = app.Services.GetRequiredService<ILoggerManager>();
 app.ConfigureExceptionHandler(logger);
 
