@@ -27,7 +27,7 @@ NewtonsoftJsonPatchInputFormatter GetJsonPatchInputFormatter() =>
     .Services.BuildServiceProvider()
     .GetRequiredService<IOptions<MvcOptions>>().Value.InputFormatters
     .OfType<NewtonsoftJsonPatchInputFormatter>().First();
-
+///
 builder.Services.AddControllers(config => {
     config.RespectBrowserAcceptHeader = true;
     config.ReturnHttpNotAcceptable = true;
