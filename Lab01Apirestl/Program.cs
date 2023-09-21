@@ -1,10 +1,15 @@
 using Lab01Apirestl.Extensions;
 using Microsoft.AspNetCore.HttpOverrides;
+using NLog;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+
 builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
+builder.Services.ConfigureLoggerService();
+
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -39,15 +44,15 @@ app.UseAuthorization();
 //app.Run(async context =>
 //{
 //    await context.Response.WriteAsync("Hello from the whiddleware componenet");
+///});
+
+///app.Use(async (context, next) => {
+
+//Console.WriteLine($"Logic before executing the next delegate in the Use method");
+
+//await next.Invoke(); Console.WriteLine($"Logic after executing the next delegate in the Use method");
+
 //});
-
-app.Use(async (context, next) => {
-
-Console.WriteLine($"Logic before executing the next delegate in the Use method");
-
-await next.Invoke(); Console.WriteLine($"Logic after executing the next delegate in the Use method");
-
-});
 
 app.Map("/usingmapbranch", builder => {
     builder.Use(async (context, next) =>

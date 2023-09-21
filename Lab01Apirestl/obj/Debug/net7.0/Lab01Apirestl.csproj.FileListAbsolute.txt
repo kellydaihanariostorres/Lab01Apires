@@ -15,7 +15,6 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.AssemblyInfoInputs.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.AssemblyInfo.cs
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.csproj.CoreCompileInputs.cache
-C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\staticwebassets\msbuild.Lab01Apirestl.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\staticwebassets\msbuild.build.Lab01Apirestl.props
@@ -31,3 +30,10 @@ C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\ref
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.pdb
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\Lab01Apirestl.genruntimeconfig.cache
 C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\obj\Debug\net7.0\ref\Lab01Apirestl.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\nlog.config
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\NLog.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\NLog.Extensions.Logging.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Contracts.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\LoggerService.dll
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\LoggerService.pdb
+C:\Users\riost\Documents\Vladimir\Lab01Apires\Lab01Apirestl\bin\Debug\net7.0\Contracts.pdb
