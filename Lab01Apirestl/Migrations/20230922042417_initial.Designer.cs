@@ -12,8 +12,8 @@ using Repository;
 namespace Lab01Apirestl.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20230921062451_InitialData")]
-    partial class InitialData
+    [Migration("20230922042417_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -125,12 +125,17 @@ namespace Lab01Apirestl.Migrations
             modelBuilder.Entity("Entities.Models.Employee", b =>
                 {
                     b.HasOne("Entities.Models.Company", "Company")
-                        .WithMany()
+                        .WithMany("Employees")
                         .HasForeignKey("CompanyId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Company");
+                });
+
+            modelBuilder.Entity("Entities.Models.Company", b =>
+                {
+                    b.Navigation("Employees");
                 });
 #pragma warning restore 612, 618
         }

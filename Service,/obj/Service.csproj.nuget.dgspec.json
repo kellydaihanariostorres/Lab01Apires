@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj": {}
+    "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\riost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj"
+              "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj": {
+    "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\riost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj": {
+    "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj",
+        "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj",
         "packagesPath": "C:\\Users\\riost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\obj\\",
+        "outputPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,11 +142,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Contracts\\Contracts.csproj"
+              "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj"
+              "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj": {
+    "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj",
         "projectName": "Service.Contracts",
-        "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj",
+        "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\riost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,11 +210,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Entities\\Entities.csproj"
+              "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj"
+              "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Shared\\Shared.csproj"
               }
             }
           }
@@ -248,14 +248,14 @@
         }
       }
     },
-    "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj": {
+    "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\riost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riost\\AppData\\Roaming\\NuGet\\NuGet.Config",

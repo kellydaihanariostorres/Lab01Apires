@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wzRP3u/8fdiKeqgjNfJ0Au8V4qVmSBIC3zjMelP6+E+MjmcG8bXCRWffWpZhEiSU6mLztGZF52lz564L/UWRNg==",
+  "dgSpecHash": "xD86vDOHJ5+w80rtMvebwcS5OnZRtwNVKbg6+oSrwrHimv68UwlUEmtHWDLGKr0kh07Sa9K+v2n57OzkBqe4uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riost\\.nuget\\packages\\arch.entityframeworkcore\\2.1.15\\arch.entityframeworkcore.2.1.15.nupkg.sha512",
     "C:\\Users\\riost\\.nuget\\packages\\arch.entityframeworkcore.abstractions\\2.1.15\\arch.entityframeworkcore.abstractions.2.1.15.nupkg.sha512",

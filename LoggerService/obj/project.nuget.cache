@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oTBIC0wn1/kG7GYolmO+catIL+EcOiMuAY53w8oB+OY5u4stoCNnyU37IPzubJmILT0jpZnme3s3SXwPM8arcg==",
+  "dgSpecHash": "lb00yGlotdU6BQai88MGRC28r5N5sw/P4FDxgfM3XiEjfPy1E7qKt4X4aogPCEDvX4gedvoLf7U2gY5WoFN2LA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riost\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\riost\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

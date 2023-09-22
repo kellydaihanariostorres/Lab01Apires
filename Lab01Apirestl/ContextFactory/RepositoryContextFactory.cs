@@ -14,7 +14,7 @@ namespace Lab01Apirestl.ContextFactory
             .Build();
             var builder = new DbContextOptionsBuilder<RepositoryContext>()
             .UseSqlServer(configuration.GetConnectionString("sqlConnection"),
-            b => b.MigrationsAssembly("APIRestLab01"));
+            b => b.MigrationsAssembly("Lab01Apirestl"));
             return new RepositoryContext(builder.Options);
         }
     }

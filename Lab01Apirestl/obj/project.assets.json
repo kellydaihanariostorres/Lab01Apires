@@ -8664,11 +8664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Lab01Apirestl\\Lab01Apirestl.csproj",
+      "projectUniqueName": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Lab01Apirestl\\Lab01Apirestl.csproj",
       "projectName": "Lab01Apirestl",
-      "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Lab01Apirestl\\Lab01Apirestl.csproj",
+      "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Lab01Apirestl\\Lab01Apirestl.csproj",
       "packagesPath": "C:\\Users\\riost\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Lab01Apirestl\\obj\\",
+      "outputPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Lab01Apirestl\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\riost\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8685,20 +8685,20 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\CompanyEmployee.Presentation\\CompanyEmployee.Presentation.csproj": {
-              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\CompanyEmployee.Presentation\\CompanyEmployee.Presentation.csproj"
+            "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\CompanyEmployee.Presentation\\CompanyEmployee.Presentation.csproj": {
+              "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\CompanyEmployee.Presentation\\CompanyEmployee.Presentation.csproj"
             },
-            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Repository\\Repository.csproj"
+            "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj": {
-              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj"
+            "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj": {
+              "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj"
             },
-            "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service.Contracts\\Service.Contracts.csproj"
+            "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }

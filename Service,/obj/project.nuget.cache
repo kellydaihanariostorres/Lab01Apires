@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tQDaG+N0tVDYqWlOmZEmbfPCR48pGhqfaoDLTePzeu8uYzcA/s5UEq6Nd4t6ukhLnrr4BLmOFp2fIWJ2TpOP1Q==",
+  "dgSpecHash": "skOQxdsUztVcr07maRhcNw1VCM8gbvDTx4F+P4IZIuYJPrNvieDt4j+5Lzv3TcIH66Am74eyi4S6hQDUYWnp5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\Service,\\Service.csproj",
+  "projectFilePath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\Service,\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riost\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\riost\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

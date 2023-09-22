@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MWBbT5EhrPXtus/HYRCvYK0WdmjssFStNgIbH4Bpsb0M80lt/QjkDvNh+MEoQbly8XdHwmK1n6WMFmPinSK9eQ==",
+  "dgSpecHash": "NqC11P+uZcjSrzn3JsBB+NDUovlmcdGISuSKld2rQMOHcPdc50VJY+6RSdxiECdvSEfULdnja+niwDAOWRNGtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\riost\\Documents\\Vladimir\\Lab01Apires\\CompanyEmployee.Presentation\\CompanyEmployee.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\riost\\Downloads\\Lab01Apirest\\Lab01Apirest\\Lab01Apires-9cf52911c3092e580ed98fff56db55e57afa8b7f\\CompanyEmployee.Presentation\\CompanyEmployee.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\riost\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\riost\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
